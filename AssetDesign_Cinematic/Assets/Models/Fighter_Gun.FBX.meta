@@ -1,14 +1,15 @@
 fileFormatVersion: 2
-guid: 11e2a3fe57ebcc14da2185059b6a7153
+guid: df6bc0ef08ac8c44893a4988cfd190ac
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: No Name
+    2100000: 02 - Default
+    2100002: 'Material #26'
     2300000: //RootNode
     3300000: //RootNode
-    4300000: TurretStand
+    4300000: Gun
   externalObjects: {}
   materials:
     importMaterials: 1

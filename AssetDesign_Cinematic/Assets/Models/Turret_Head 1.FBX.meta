@@ -1,18 +1,16 @@
 fileFormatVersion: 2
-guid: de8f5c486ecb67240b9fad834afff0d0
+guid: 54355bfe830733a48ab537fc510122ab
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: 01 - Default
-    2100002: 'Material #29'
-    2100004: 'Material #26'
-    2100006: 'Material #28'
-    2100008: 'Material #27'
+    2100000: 02 - Default
+    2100002: 'Material #13'
+    2100004: 'Material #14'
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Ship_Body
+    4300000: Turret
   externalObjects: {}
   materials:
     importMaterials: 1

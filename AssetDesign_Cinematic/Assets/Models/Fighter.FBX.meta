@@ -1,14 +1,17 @@
 fileFormatVersion: 2
-guid: b76535303015ed3419a59279ec467d0f
+guid: bbde827e0ca020944b2fc3b1d64c92c5
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: No Name
+    2100000: 01 - Default
+    2100002: 'Material #13'
+    2100004: 'Material #14'
+    2100006: '01 - Default Slot #4'
     2300000: //RootNode
     3300000: //RootNode
-    4300000: BayDoor_Left
+    4300000: Ship
   externalObjects: {}
   materials:
     importMaterials: 1

@@ -1,11 +1,11 @@
 fileFormatVersion: 2
-guid: b9e587963c67e7e4e8d0c08936104f1c
+guid: a2d2593466b52554aa2baa848ea9a9f2
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: No Name
+    2100000: 01 - Default
     2300000: //RootNode
     3300000: //RootNode
     4300000: BayDoor_Right
