@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2f3cb0d31d1c1884494c33a374ab146f
+guid: 9c99acb0303c8cb4a95709d4b7502c2a
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -8,7 +8,7 @@ ModelImporter:
     2100000: 01 - Default
     2300000: //RootNode
     3300000: //RootNode
-    4300000: AshTower
+    4300000: SensesCentre
   externalObjects: {}
   materials:
     importMaterials: 1

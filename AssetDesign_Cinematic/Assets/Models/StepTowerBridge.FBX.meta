@@ -4,18 +4,11 @@ ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
-    100002: StepTowerBridge
-    100004: StepTowerBridge2
     400000: //RootNode
-    400002: StepTowerBridge
-    400004: StepTowerBridge2
-    2100000: No Name
-    2300000: StepTowerBridge
-    2300002: StepTowerBridge2
-    3300000: StepTowerBridge
-    3300002: StepTowerBridge2
+    2100000: 01 - Default
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: StepTowerBridge
-    4300002: StepTowerBridge2
   externalObjects: {}
   materials:
     importMaterials: 1

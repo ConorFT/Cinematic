@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a31bc82f2d6729841bf648073c4a42ac
+guid: c8ef99dcd4d612e4da00c191a0438c43
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -8,7 +8,7 @@ ModelImporter:
     2100000: 01 - Default
     2300000: //RootNode
     3300000: //RootNode
-    4300000: KNKO
+    4300000: StepTowerBridge2
   externalObjects: {}
   materials:
     importMaterials: 1

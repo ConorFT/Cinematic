@@ -1,14 +1,71 @@
 fileFormatVersion: 2
-guid: db5a3b2986b3cff4c862a793678d71b0
+guid: 71475adfab177e24cacbddd9b6ce11cb
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: //RootNode
-    400000: //RootNode
-    2100000: No Name
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: SensesCentre
+    100000: BasicBuildingA
+    100002: BasicBuildingA1
+    100004: BasicBuildingA2
+    100006: BasicBuildingA3
+    100008: BasicBuildingA4
+    100010: BasicBuildingB
+    100012: BasicBuildingB1
+    100014: BasicBuildingB2
+    100016: BasicBuildingB3
+    100018: BasicBuildingB4
+    100020: //RootNode
+    100022: BuildingBox
+    100024: BuildingTop
+    400000: BasicBuildingA
+    400002: BasicBuildingA1
+    400004: BasicBuildingA2
+    400006: BasicBuildingA3
+    400008: BasicBuildingA4
+    400010: BasicBuildingB
+    400012: BasicBuildingB1
+    400014: BasicBuildingB2
+    400016: BasicBuildingB3
+    400018: BasicBuildingB4
+    400020: //RootNode
+    400022: BuildingBox
+    400024: BuildingTop
+    2100000: 01 - Default
+    2300000: BasicBuildingA
+    2300002: BasicBuildingA1
+    2300004: BasicBuildingA2
+    2300006: BasicBuildingA3
+    2300008: BasicBuildingA4
+    2300010: BasicBuildingB
+    2300012: BasicBuildingB1
+    2300014: BasicBuildingB2
+    2300016: BasicBuildingB3
+    2300018: BasicBuildingB4
+    2300020: BuildingBox
+    2300022: BuildingTop
+    3300000: BasicBuildingA
+    3300002: BasicBuildingA1
+    3300004: BasicBuildingA2
+    3300006: BasicBuildingA3
+    3300008: BasicBuildingA4
+    3300010: BasicBuildingB
+    3300012: BasicBuildingB1
+    3300014: BasicBuildingB2
+    3300016: BasicBuildingB3
+    3300018: BasicBuildingB4
+    3300020: BuildingBox
+    3300022: BuildingTop
+    4300000: BasicBuildingA
+    4300002: BasicBuildingB
+    4300004: BasicBuildingB1
+    4300006: BasicBuildingB2
+    4300008: BasicBuildingB3
+    4300010: BasicBuildingB4
+    4300012: BasicBuildingA1
+    4300014: BasicBuildingA2
+    4300016: BasicBuildingA3
+    4300018: BasicBuildingA4
+    4300020: BuildingTop
+    4300022: BuildingBox
   externalObjects: {}
   materials:
     importMaterials: 1
